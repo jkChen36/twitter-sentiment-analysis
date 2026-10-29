@@ -1,0 +1,19 @@
+# 数据集与训练产物不进仓库（体积大，可自行下载 / 重新训练生成）
+data/
+outputs/
+*.pt
+*.npy
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
